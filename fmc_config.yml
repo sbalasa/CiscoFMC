@@ -1,0 +1,12 @@
+---
+ftd_deploy: yes
+fmc_device:
+  host_ip: 10.88.88.80
+  username: apiuser
+  password: P@ssw0rd
+excel:
+  sheet_name: BUILD-NGFW
+  file_path: ./spreadsheets/Firewall_Policies.xlsx
+  rows_range:  #  max range limit is 1000
+    start: 5
+    end: 50
