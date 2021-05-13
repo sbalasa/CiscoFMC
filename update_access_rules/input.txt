@@ -1,0 +1,3 @@
+Server URL			    Domain Name			       ACP Name		Intrusion Name
+10.88.88.80 	Global/Cluster-A/AGENCY-A		agency_a_acp	agency_a_ips
+10.88.88.80 	Global/Cluster-B/AGENCY-B		agency_b_acp	agency_b_ips

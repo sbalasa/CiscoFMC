@@ -1,0 +1,12 @@
+---
+fmc_device:
+  host_ip: 192.168.111.178
+  username: apiuser
+  password: P@ssw0rd
+  domain: Global/CCIS-GNOC3/G3-Internal-DMZ-NGFW
+excel:
+  sheet_name: network_objects
+  file_path: spreadsheets/network_objects.xlsx
+  rows_range:  #  max range limit is 1000
+    start: 1001
+    end: 1040

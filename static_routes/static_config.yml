@@ -1,0 +1,12 @@
+---
+ftd_deploy: yes
+fmc_device:
+  host_ip: 192.168.111.178
+  username: apiuser
+  password: P@ssw0rd
+excel:
+  sheet_name: static_routes
+  file_path: spreadsheets/static_routes.xlsx
+  rows_range:  #  max range limit is 1000
+    start: 1
+    end: 15
