@@ -1,7 +1,7 @@
 # Cisco FMC
 ## FRIT - Firewall Rules Inducer Tool
 
-Code to create Firewall Rules in Cisco FMC by parsing spreadsheet
+Tool to create Firewall Rules in Cisco FMC by parsing spreadsheet
 
 There are two modes:
 - Single rule implementing one by one, use fmc_sequential.py
